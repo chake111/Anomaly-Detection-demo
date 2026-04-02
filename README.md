@@ -26,3 +26,21 @@ jupyter notebook
 ```
 
 启动后可在浏览器中打开并创建/运行你的练习 Notebook（含 `numpy`、`matplotlib`、`sklearn`、`ipykernel` 环境）。
+
+建议完成第一次练习并保存为：`practice_01.ipynb`。
+
+## 4) 保存与复用
+
+- 首次练习完成后保存 Notebook：`practice_01.ipynb`
+- 后续每次练习前，先激活虚拟环境再启动 Notebook：
+
+```bash
+source .venv/bin/activate
+jupyter notebook
+```
+
+## 5) 自检通过标准
+
+- 能成功启动 Notebook
+- 能导入 `numpy`、`matplotlib`、`sklearn`
+- 能完成一次“生成数据 → 训练（IsolationForest） → 预测 → 可视化”
