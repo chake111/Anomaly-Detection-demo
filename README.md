@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ## 2) 运行现有脚本
 
 ```bash
-python /home/runner/work/Anomaly-Detection-demo/Anomaly-Detection-demo/main.py
+python main.py
 ```
 
 ## 3) 运行 Notebook 练习（适配题目中的环境）
@@ -26,4 +26,3 @@ jupyter notebook
 ```
 
 启动后可在浏览器中打开并创建/运行你的练习 Notebook（含 `numpy`、`matplotlib`、`sklearn`、`ipykernel` 环境）。
-
