@@ -27,8 +27,6 @@ jupyter notebook
 
 启动后可在浏览器中打开并创建/运行你的练习 Notebook（含 `numpy`、`matplotlib`、`sklearn`、`ipykernel` 环境）。
 
-建议完成第一次练习并保存为：`practice_01.ipynb`。
-
 ## 4) 保存与复用
 
 - 首次练习完成后保存 Notebook：`practice_01.ipynb`
